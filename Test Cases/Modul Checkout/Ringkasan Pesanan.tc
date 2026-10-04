@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ringkasan Pesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>030d25e0-1730-4df0-8cad-9dadfd95a2e8</testCaseGuid>
+</TestCaseEntity>

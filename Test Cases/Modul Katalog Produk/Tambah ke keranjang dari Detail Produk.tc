@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah ke keranjang dari Detail Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0ef1a04-9fde-46ab-a470-92045776c166</testCaseGuid>
+</TestCaseEntity>

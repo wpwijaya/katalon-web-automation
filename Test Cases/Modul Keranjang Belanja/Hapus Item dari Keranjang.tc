@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hapus Item dari Keranjang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3ad7e03-e782-4941-8ebc-3cd129b22752</testCaseGuid>
+</TestCaseEntity>
